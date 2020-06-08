@@ -14,3 +14,7 @@ https://qeclock.ellaqi.com
 Deployment info
 ----------------
 * Domain name: ellaqi.com
+
+Addition
+------------
+Projects URL: https://ellaqi.com/projects/
