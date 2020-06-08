@@ -9,7 +9,7 @@ Built with Vue, CSS3, HTML5 from scratch, no frameworks.
 
 Live URL 
 --------
-pending (current wordpress blog: [ellaqi.com](https://ellaqi.com/))
+https://qeclock.ellaqi.com
 
 Deployment info
 ----------------
